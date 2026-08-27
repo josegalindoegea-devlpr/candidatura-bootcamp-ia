@@ -3,7 +3,7 @@
 Micro-site de candidatura de **José Galindo** para un Bootcamp Intensivo de IA. Página única (single-page), autocontenida, sin dependencias de build ni frameworks: un solo archivo `index.html` con CSS y JS inline, listo para servirse como sitio estático.
 
 **Demo:** https://josegalindoegea-devlpr.github.io/candidatura-bootcamp-ia/
-*(activo en cuanto se habilite GitHub Pages en este repositorio — ver [Despliegue](#despliegue))*
+
 
 Preview alternativa (mientras se despliega Pages): https://claude.ai/code/artifact/55eb4976-0a11-42b4-86e7-2239c2f89f56
 
